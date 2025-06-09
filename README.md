@@ -34,5 +34,5 @@ _(…plus more entries in the full JSON file.)_
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/ai-tools-list.git
+   git clone https://github.com/lakey009/AI-Tools-List.git
    cd ai-tools-list
