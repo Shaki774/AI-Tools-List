@@ -39,6 +39,19 @@ _(…plus more entries in the full JSON file.)_
 
 ---
 
+## 📊 Data Analysis & Visualizations
+
+We’ve just added **detailed analytics** on our AI tools dataset! See [DataAnalysis.md](./DataAnalysis.md) for:
+
+- **Pricing Distribution**  
+  Bar charts showing how many tools fall into each monthly pricing bracket (Free, 0–2 USD, …, 48–50 USD, 50+ USD).  
+- **Traffic Source Breakdown**  
+  Pie charts illustrating Direct, Search, and Referral traffic shares across five visitor-volume tiers.
+
+These visualizations surface key insights—like the dominance of freemium models and the shift from Search to Direct traffic as tools gain popularity.
+
+---
+
 ## 🚀 How to Use
 
 1. **Clone the repo**  
